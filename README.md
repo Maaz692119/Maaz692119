@@ -1,1 +1,1 @@
-Maaz is an aspiring web developer with a growing passion for building modern, responsive, and user-focused websites. Currently focused on expanding his skills in front-end and back-end technologies, Maaz is actively learning HTML, CSS, JavaScript, and frameworks like React and Node.js.
+I'm a beginner web developer learning HTML, CSS, and JavaScript. I enjoy building simple web pages and exploring how websites work. Excited to keep learning and growing in front-end development!
