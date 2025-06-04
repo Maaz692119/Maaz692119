@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Maaz
-- 👀 I’m interested in Web Devwlopment
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on New Project For Learning
-- 📫 How to reach me you cam always reach me in maazarain025@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Maaz is an aspiring web developer with a growing passion for building modern, responsive, and user-focused websites. Currently focused on expanding his skills in front-end and back-end technologies, Maaz is actively learning HTML, CSS, JavaScript, and frameworks like React and Node.js.
 
-<!---
-Maaz692119/Maaz692119 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+With a strong commitment to continuous improvement and hands-on learning, Maaz is developing a solid foundation in web development principles, coding best practices, and real-world application building. He thrives on problem-solving, creativity, and turning ideas into functional digital experiences.
+
+Motivated by curiosity and a drive to grow in the tech industry, Maaz is building projects, collaborating with the developer community, and staying up to date with the latest trends in web development.
+
